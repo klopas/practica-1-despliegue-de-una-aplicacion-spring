@@ -1,11 +1,12 @@
 package es.codeurjc.mca.practica_1_cloud_ordinaria_2021.image;
 
 import java.io.IOException;
+
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 import lombok.RequiredArgsConstructor;
-import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
 @Service("storageService")
