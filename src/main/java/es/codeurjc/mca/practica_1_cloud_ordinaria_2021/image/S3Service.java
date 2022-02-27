@@ -26,7 +26,7 @@ public class S3Service {
       .region(Region.of(this.properties.getRegion()))
       .build();
 
-    this.createBucket(properties.getBucketName());
+    //this.createBucket(properties.getBucketName());
   }
 
   private void createBucket(final String bucketName) {
