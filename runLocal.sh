@@ -1,5 +1,3 @@
-export AWS_ACCESS_KEY_ID=
-export AWS_SECRET_ACCESS_KEY=
 export BUCKET_NAME=michel.bucket.eu-west-1
 export REGION=eu-west-1
 
