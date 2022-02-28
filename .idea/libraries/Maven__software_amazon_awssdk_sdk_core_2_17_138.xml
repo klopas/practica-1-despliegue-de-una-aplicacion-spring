@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: software.amazon.awssdk:sdk-core:2.17.138">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/software/amazon/awssdk/sdk-core/2.17.138/sdk-core-2.17.138.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/software/amazon/awssdk/sdk-core/2.17.138/sdk-core-2.17.138-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/software/amazon/awssdk/sdk-core/2.17.138/sdk-core-2.17.138-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -2,8 +2,8 @@ docker rm -f master-mysql
 
 mvn package -DskipTests
 
-export BUCKET_NAME=practica-1.cloud.michel-domingo
-export REGION=us-east-1
+export BUCKET_NAME=practica-1.cloud.prueba
+export REGION=eu-west-1
 
 docker run --name master-mysql -p 3306:3306 -e MYSQL_ROOT_PASSWORD=cloud-computing -e MYSQL_DATABASE=events_db -d  mysql:5.7
 sleep 10
